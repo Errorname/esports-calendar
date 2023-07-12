@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^calendar.ics$ index.php [QSA]
